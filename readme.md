@@ -1,5 +1,5 @@
-# Java Script
-![App Screenshot](https://aws-storage-aulab.s3.eu-south-1.amazonaws.com/aulabes/app/public/6/conversions/jsarticle-cover.jpg)
+# JavaScript
+![App Screenshot](https://cdn.fordhamram.com/wp-content/uploads/Best-Online-JavaScript-Courses-750x300.png)
 
 ## ¿Qué es JavaScript?
 JavaScript es un lenguaje de pprogamación que nos permite agregar interactividad y dinamismo a la pagina web.
@@ -32,4 +32,4 @@ Son contenedotes para almacenar valores
 
 
 ## RESULTADO DE LOS EJEMPLOS DE LEF Y CONST EN CONSOLA DE NAVEGADOR: 
-![App Screenshot](https://aws-storage-aulab.s3.eu-south-1.amazonaws.com/aulabes/app/public/6/conversions/jsarticle-cover.jpg)
+![App Screenshot](https://i.ibb.co/m05shnm/javascript.png)
